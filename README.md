@@ -1,18 +1,26 @@
 <p align="center">
-  <img alt="React_Calculator" src=".github/calculadora_react.gif" width="160px">
+  <img alt="React_Calculator" src=".github/calculadora_react.gif" width="600px">
 </p>
 
-<br>
 
-## 🧪 New features
 
-No new features for now
+## 🎯 New features
+
+**Electron wrap version is on the way!**
+
+Comming soon on v0.0.2
+
+
 
 ## 🧪 Technologies
 
 This project was developed using the following technologies:
 
-- [React](https://reactjs.org)
+- ⚡ [React](https://reactjs.org) - Front-end
+
+- ⚡ [Node.js](https://nodejs.org/en/) - Back-end
+
+  
 
 ## 🚀 Getting started
 
@@ -40,7 +48,13 @@ $npm install
 ```
 The app will be available for access on your browser at http://localhost:3000
 
+The app was not deployed yet so you'll need to start a development server to use it
+
 ## 🔖 Layout
+
+The layout was inspired in MacOS calculator for clear usability advantages, the front end was completely made of **CSS grid and HTML as JSX** in order to read by React.
+
+
 
 ## 📝 License
 
